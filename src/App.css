@@ -1,0 +1,10 @@
+*{
+  font-family: 'DM Sans', sans-serif;
+}
+
+
+.hero{
+  background: url("./assets/img/bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
