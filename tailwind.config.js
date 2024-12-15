@@ -1,5 +1,4 @@
-/** @type {import('tailwindcss').Config} */
-module.exports = {
+export defualt = {
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}", // Adjust based on your framework
